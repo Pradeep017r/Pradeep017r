@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pradeep017r
 - 👀 I’m interested in Music/Editing
 - 🌱 I’m currently learning B.sc on Computer Science
-- 📫 Reach Me on Insta: @itxpradeep._.07
+- 📫 Reach Me on Insta: @_.prrdeep._._
 
 <!---
 Pradeep017r/Pradeep017r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
